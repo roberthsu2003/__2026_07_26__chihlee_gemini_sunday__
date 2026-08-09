@@ -1,0 +1,8 @@
+version = 1
+revision = 3
+requires-python = ">=3.12"
+
+[[package]]
+name = "2026-07-26-chihlee-gemini-sunday"
+version = "0.1.0"
+source = { virtual = "." }
