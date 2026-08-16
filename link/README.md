@@ -23,6 +23,6 @@ https://www.youtube.com/watch?v=VPuMTbr_gYM
 ---
 
 ## 2026_08_16_早上
-https://meet.google.com/bni-udti-mch
+https://www.youtube.com/watch?v=NjAuCCPZG0M
 
 ---
