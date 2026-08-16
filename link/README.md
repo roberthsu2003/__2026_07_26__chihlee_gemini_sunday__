@@ -21,3 +21,8 @@ https://www.youtube.com/watch?v=saSG-ByqfpI
 https://www.youtube.com/watch?v=VPuMTbr_gYM
 
 ---
+
+## 2026_08_16_早上
+https://meet.google.com/bni-udti-mch
+
+---
