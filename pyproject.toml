@@ -12,6 +12,7 @@ dependencies = [
     "jupyterlab>=4.6.2",
     "jupyterlab-lsp>=5.3.0",
     "python-dotenv>=1.2.2",
+    "python-telegram-bot>=22.8",
 ]
 
 [dependency-groups]
