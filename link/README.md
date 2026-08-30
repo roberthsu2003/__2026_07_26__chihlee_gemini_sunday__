@@ -37,3 +37,9 @@ https://www.youtube.com/watch?v=0lbhRRz0Ha0
 https://www.youtube.com/watch?v=EfyKF_rWvWg
 
 ---
+
+## 2026_08_30_早上
+https://www.youtube.com/watch?v=gm-Grw-_ahI
+
+
+---
