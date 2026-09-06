@@ -46,7 +46,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     # 呼叫 Gemini 3.7 Flash
     interaction = client.interactions.create(
-        model="gemini-3.7-flash",
+        model="gemini-3.8-flash",
         input=clean_text,
         system_instruction="你是一個 Telegram 群組 AI 助理，請用繁體中文給出簡潔有條理的回答。"
     )
