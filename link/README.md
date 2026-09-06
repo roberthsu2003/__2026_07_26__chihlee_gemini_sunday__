@@ -43,3 +43,8 @@ https://www.youtube.com/watch?v=gm-Grw-_ahI
 
 
 ---
+
+## 2026_09_06_早上
+https://www.youtube.com/watch?v=kJEczyaKdq4
+
+---
