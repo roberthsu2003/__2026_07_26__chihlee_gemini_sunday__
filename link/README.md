@@ -50,4 +50,7 @@ https://youtube.com/live/6-5jNHB-c2A
 ## 2026_09_06_早上
 https://www.youtube.com/watch?v=kJEczyaKdq4
 
+## 2026_09_06_下午
+https://youtube.com/live/8M5rYpJAyec
+
 ---
