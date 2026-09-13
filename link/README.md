@@ -58,5 +58,7 @@ https://youtube.com/live/8M5rYpJAyec
 ## 2026_09_13_早上
 https://www.youtube.com/watch?v=JtDgkSLzsFk
 
+## 2026_09_13_下午
+https://www.youtube.com/watch?v=rYL4_cEfY-s
 
 ---
