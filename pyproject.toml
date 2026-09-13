@@ -11,6 +11,7 @@ dependencies = [
     "ipykernel>=7.3.0",
     "jupyterlab>=4.6.2",
     "jupyterlab-lsp>=5.3.0",
+    "openpyxl>=3.1.5",
     "python-dotenv>=1.2.2",
     "python-telegram-bot>=22.8",
 ]
