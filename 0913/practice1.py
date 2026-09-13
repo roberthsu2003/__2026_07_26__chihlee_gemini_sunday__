@@ -1,5 +1,5 @@
 #國堂_LV名牌包_打到骨折_channel
-#-4322810613
+
 
 import asyncio
 import os
@@ -12,7 +12,7 @@ TELEGRAM_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 # 設定不同推播目標
 TARGET_USER_ID = 8719067870               # 個人 (正整數，用戶需先私訊過 Bot)
 TARGET_GROUP_ID = "-5339618596"         # 群組 (負整數，Bot 需在群組內)
-TARGET_CHANNEL = "-4322810613"     # 頻道 Chat ID (Bot 需為管理員)
+TARGET_CHANNEL_ID = "-1004322810613"     # 頻道 Chat ID (Bot 需為管理員)
 
 async def send_broadcast(chat_id: str | int, message: str):
     bot = Bot(token=TELEGRAM_TOKEN)
@@ -29,7 +29,7 @@ async def main():
     targets = [
         TARGET_USER_ID,
         TARGET_GROUP_ID,
-        TARGET_CHANNEL
+        TARGET_CHANNEL_ID
     ]
 
     for chat_id in targets:
